@@ -172,7 +172,7 @@
 	slide2text: "Our backend API is extensive and lightning-fast, providing the response times you are familiar with from our website.  Easily buy and sell your assets the moment you need to take action.",
 	slide3title: "No account yet?  No problem\n Register right from the app",
 	slide3text: "On the next screen you can connect your existing account using QR code or existing login credentials.  If you don\'t already have an account you can create a new one in seconds.",
-	errorcamera: "You need to give access to Camera to this application to start using it! \n Settings(Applcation Section)-> Altilly -> Camera -> Toggle (on)",
+	errorcamera: "You need to give access to Camera to this application to start using it! \n Settings(Application Section)-> Altilly -> Camera -> Toggle (on)",
 	storedaccessinvalid: "Stored access code is invalid. Please, re-login",
 	yourreferralqrcode: "Your Referral QR Code",
 	referotherusers: "Refer other users with your referral code",
